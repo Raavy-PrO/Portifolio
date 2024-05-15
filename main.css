@@ -8,6 +8,9 @@ body{
     height: 100vh;
     font-family: sans-serif;
     background: url('fundosite.png') top center no-repeat;
+    background-size: auto;    
+
+
 }
 .nav{
     position: fixed;
